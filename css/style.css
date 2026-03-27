@@ -1,0 +1,16 @@
+.titulo{
+    text-align: center;
+    color: #2ABF44;
+font-family: fantasy;}
+.creador{
+    text-align: right}
+.celulas{
+    text-align: right;}
+.level{
+    text-align: center}
+.container{
+    background-color: white;}
+.container{
+    background-color: transparent;}
+body, .container{
+    background-color: #BF8D2A;}
